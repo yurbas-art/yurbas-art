@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yurii 👋</h1>
+<h1 align="center">Hi there, I'm Iurii 👋</h1>
 
 <p align="center">
   🎓 CS Student | 💻 C & Python Developer | 🎤 Voice Assistant Enthusiast | 🎨 3D & Visual Creator
