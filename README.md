@@ -17,6 +17,14 @@
 
 ---
 
+### 🧩 Currently Working On
+
+- 🧱 Building my personal website to promote development & photography services  
+- 📚 Practicing JavaScript & DOM manipulation for web projects  
+- 💡 Exploring advanced memory control and struct handling in C  
+
+---
+
 ### 📂 Featured Projects
 
 - 🔊 **[VoiceHelper](https://github.com/yurbas-art/VoiceHelper)**  
@@ -54,10 +62,16 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
-- [Telegram](https://t.me/lenel03)
-- [VK](https://vk.com/lenel_official)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/lenel03)
+[![VK](https://img.shields.io/badge/-VK-4680C2?style=flat&logo=vk&logoColor=white)](https://vk.com/lenel_official)
+
+---
+
+### 🤝 Open to Collaborate
+
+If you're looking for a junior developer, voice project contributor, or creative visual support — feel free to reach out!
 
 ---
 
