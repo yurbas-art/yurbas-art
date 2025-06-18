@@ -1,40 +1,47 @@
-<h1 align="center">Hi there, I'm Iurii Melnikov 👋</h1>
+<h1 align="center">Hi there, I'm Yurii 👋</h1>
 
 <p align="center">
-  🎓 Student | 💻 Learning Programming | 🎨 Photography & Poster Design
+  🎓 CS Student | 💻 C & Python Developer | 🎤 Voice Assistant Enthusiast | 🎨 3D & Visual Creator
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Currently learning **Python**, **C**, and diving into **JavaScript**
-- 📸 I enjoy photographing architecture and portraits
-- 🎨 I design posters using Photoshop and Figma
-- 🎓 I'm a university student growing as a developer and designer
-- 🧰 I work on personal projects and share them here on GitHub
-
----
-
-### 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat&logo=adobe-photoshop)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+- 📚 I'm currently studying computer science and mastering programming with **C** and **Python**
+- 🤖 Participated in a science forum by developing a **voice assistant in Python**
+- 🧪 Completed numerous **lab works in C**, including exam-oriented and advanced practical assignments
+- 🎨 Exploring the world of **3D design** through academic work in **Blender**
+- 🧰 Always learning something new and pushing boundaries of creativity and logic
 
 ---
 
 ### 📂 Featured Projects
 
-Some of my recent work:
+- 🔊 **[VoiceHelper](https://github.com/yurbas-art/VoiceHelper)**  
+  Python-based voice assistant created for a university science forum. Uses speech recognition and basic NLP logic.
 
-- 📷 [Photo CLI Editor in Python](https://github.com/yurbas-art/photo-cli)
-- 🎮 [C Mini Game](https://github.com/yurbas-art/c-mini-game)
-- 🌐 [JavaScript Visual Demos](https://github.com/yurbas-art/js-visuals)
+- 💻 **[BKV_labs_C](https://github.com/yurbas-art/BKV_labs_C)**  
+  Advanced level C programming labs with a focus on data structures, algorithms and optimization tasks.
 
-> 🔗 See more in my Repositories ⬇️
+- 🧮 **[Exam_C](https://github.com/yurbas-art/Exam_C)**  
+  Collection of programming tasks in C — used for exam preparation and logic building.
+
+- 📘 **[Programming_C](https://github.com/yurbas-art/Programming_C)**  
+  Fundamental programming exercises and examples in C for early coursework.
+
+- 🖼️ **[Blender_3D_works](https://github.com/yurbas-art/Blender_3D_works)**  
+  3D modeling tasks and renders created as part of design-oriented university coursework.
+
+---
+
+### 🛠️ Technologies & Tools
+
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Blender](https://img.shields.io/badge/-Blender-000?style=flat&logo=blender)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat&logo=adobe-photoshop)
 
 ---
 
@@ -45,13 +52,17 @@ Some of my recent work:
 
 ---
 
-### 📫 Contact Me
+### 📫 Connect with me
 
-- 📸 [Instagram](https://instagram.com/...) — my photography  
-- 🖼️ [Behance / Dribbble](https://behance.net/...) — my design portfolio  
-- 💌 [Email](mailto:youremail@example.com)
+- [Telegram](https://t.me/lenel03)
+- [VK](https://vk.com/lenel_official)
 
 ---
 
+### 🐍 Contribution Snake Animation
 
-⭐️ Thanks for stopping by!
+![GitHub Snake](https://github.com/yurbas-art/yurbas-art/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ Thanks for visiting my profile!
