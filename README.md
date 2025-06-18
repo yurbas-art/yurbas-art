@@ -9,6 +9,7 @@
 ### 🧠 About Me
 
 - 📚 I'm currently studying computer science and mastering programming with **C** and **Python**
+- 🌱 I'm also starting to explore **JavaScript** and web development fundamentals
 - 🤖 Participated in a science forum by developing a **voice assistant in Python**
 - 🧪 Completed numerous **lab works in C**, including exam-oriented and advanced practical assignments
 - 🎨 Exploring the world of **3D design** through academic work in **Blender**
@@ -39,9 +40,10 @@
 
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Blender](https://img.shields.io/badge/-Blender-000?style=flat&logo=blender)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat&logo=adobe-photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat&logo=adobecreativecloud)
 
 ---
 
@@ -59,10 +61,5 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
-
-![GitHub Snake](https://github.com/yurbas-art/yurbas-art/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐️ Thanks for visiting my profile!
