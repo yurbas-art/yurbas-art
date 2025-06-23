@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 📚 I'm currently studying computer science and mastering programming with **C** and **Python**
-- 🌱 I'm also starting to explore **JavaScript** and web development fundamentals
+- 🌱 I'm also starting to explore **JavaScript**, **HTML**, **CSS**, and web development fundamentals
 - 🤖 Participated in a science forum by developing a **voice assistant in Python**
 - 🧪 Completed numerous **lab works in C**, including exam-oriented and advanced practical assignments
 - 🎨 Exploring the world of **3D design** through academic work in **Blender**
@@ -20,7 +20,7 @@
 ### 🧩 Currently Working On
 
 - 🧱 Building my personal website to promote development & photography services  
-- 📚 Practicing JavaScript & DOM manipulation for web projects  
+- 📚 Practicing JavaScript, **HTML**, **CSS**, and DOM manipulation for web projects  
 - 💡 Exploring advanced memory control and struct handling in C  
 
 ---
@@ -49,6 +49,8 @@
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Blender](https://img.shields.io/badge/-Blender-000?style=flat&logo=blender)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat&logo=adobecreativecloud)
@@ -74,6 +76,5 @@
 If you're looking for a junior developer, voice project contributor, or creative visual support — feel free to reach out!
 
 ---
-
 
 ⭐️ Thanks for visiting my profile!
