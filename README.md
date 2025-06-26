@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Iurii 👋</h1>
 
 <p align="center">
-  🎓 SE Student | 💻 C & Python Developer | 🎤 Voice Assistant Enthusiast | 🎨 3D & Visual Creator
+  🎓 Software Engineering Student | 💻 C & Python Developer | 🎤 Voice Assistant Enthusiast | 🎨 3D & Visual Creator
 </p>
 
 ---
